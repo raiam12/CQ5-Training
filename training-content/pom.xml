@@ -56,9 +56,9 @@
 									<goal>install</goal>
 								</goals>
 								<configuration>
-									<targetURL>${cq.host}/crx/packmgr/service.jsp</targetURL>
-									<userId>${cq.user}</userId>
-									<password>${cq.password}</password>
+									<targetURL>http://localhost:4502/crx/packmgr/service.jsp</targetURL>
+									<userId>admin</userId>
+									<password>admin</password>
 								</configuration>
 							</execution>
 						</executions>
