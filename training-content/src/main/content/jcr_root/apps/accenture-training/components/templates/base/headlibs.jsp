@@ -17,4 +17,4 @@
 
 --%>
 <%@include file="/libs/foundation/global.jsp" %>
-<cq:includeClientLib categories="apps.accenture.training.general"/>
+<cq:includeClientLib categories="apps.accenture.training.main"/>
