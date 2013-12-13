@@ -1,4 +1,2 @@
 <%@ include file="/libs/foundation/global.jsp" %>
-<footer>
-    FOOTER!
-</footer>
+<cq:include path="contextualfooter" resourceType="accenture-training/components/contextualfooter"/>
