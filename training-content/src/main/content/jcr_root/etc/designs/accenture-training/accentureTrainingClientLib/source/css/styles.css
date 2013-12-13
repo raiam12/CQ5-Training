@@ -28,3 +28,14 @@ time, mark, audio, video {
     height: 60px;
 }
 
+.content {
+    width: 100%;
+    background-color: red;
+    height: 100px;    
+}
+
+footer {
+    width: 100%;
+    background-color: green;
+    height: 50px;
+}

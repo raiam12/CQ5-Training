@@ -5,7 +5,7 @@
 
   ==============================================================================
 
---%><%@ include file="/apps/dupont/phoenix/components/common/global.jsp"%>
+--%><%@ include file="foundation/global.jsp"%>
 <body>
 	<cq:include script="header.jsp"/>
 	<cq:include script="content.jsp"/>

@@ -1,4 +1,4 @@
-<%@ include file="foundation/components/global.jsp" %>
+<%@ include file="foundation/global.jsp" %>
 <footer>
-    <cq:include path="footer" resourceType="training/components/contextualfooter"/>
+    FOOTER!
 </footer>

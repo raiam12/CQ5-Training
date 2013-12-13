@@ -1,4 +1,4 @@
-<%@ include file="foundation/components/global.jsp" %>
+<%@ include file="foundation/global.jsp" %>
 <div class="content">
     <h1>CONTENT GOES HERE</h1>
 </div>
