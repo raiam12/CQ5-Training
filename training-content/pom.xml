@@ -45,8 +45,8 @@
 					<!-- use the vault plugin to create & install the package -->
 					<plugin>
 						<groupId>com.day.jcr.vault</groupId>
-						<artifactId>maven-vault-plugin</artifactId>
-						<version>0.0.6</version>
+						<artifactId>content-package-maven-plugin</artifactId>
+						<version>0.0.20</version>
 						<extensions>true</extensions>
 						<executions>
 							<execution>
